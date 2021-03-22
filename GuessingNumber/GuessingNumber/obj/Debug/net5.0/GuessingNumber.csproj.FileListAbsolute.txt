@@ -1,0 +1,15 @@
+C:\Users\tonny\source\repos\GuessingNumber\GuessingNumber\bin\Debug\net5.0\GuessingNumber.exe
+C:\Users\tonny\source\repos\GuessingNumber\GuessingNumber\bin\Debug\net5.0\GuessingNumber.deps.json
+C:\Users\tonny\source\repos\GuessingNumber\GuessingNumber\bin\Debug\net5.0\GuessingNumber.runtimeconfig.json
+C:\Users\tonny\source\repos\GuessingNumber\GuessingNumber\bin\Debug\net5.0\GuessingNumber.runtimeconfig.dev.json
+C:\Users\tonny\source\repos\GuessingNumber\GuessingNumber\bin\Debug\net5.0\GuessingNumber.dll
+C:\Users\tonny\source\repos\GuessingNumber\GuessingNumber\bin\Debug\net5.0\ref\GuessingNumber.dll
+C:\Users\tonny\source\repos\GuessingNumber\GuessingNumber\bin\Debug\net5.0\GuessingNumber.pdb
+C:\Users\tonny\source\repos\GuessingNumber\GuessingNumber\obj\Debug\net5.0\GuessingNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tonny\source\repos\GuessingNumber\GuessingNumber\obj\Debug\net5.0\GuessingNumber.AssemblyInfoInputs.cache
+C:\Users\tonny\source\repos\GuessingNumber\GuessingNumber\obj\Debug\net5.0\GuessingNumber.AssemblyInfo.cs
+C:\Users\tonny\source\repos\GuessingNumber\GuessingNumber\obj\Debug\net5.0\GuessingNumber.csproj.CoreCompileInputs.cache
+C:\Users\tonny\source\repos\GuessingNumber\GuessingNumber\obj\Debug\net5.0\GuessingNumber.dll
+C:\Users\tonny\source\repos\GuessingNumber\GuessingNumber\obj\Debug\net5.0\ref\GuessingNumber.dll
+C:\Users\tonny\source\repos\GuessingNumber\GuessingNumber\obj\Debug\net5.0\GuessingNumber.pdb
+C:\Users\tonny\source\repos\GuessingNumber\GuessingNumber\obj\Debug\net5.0\GuessingNumber.genruntimeconfig.cache

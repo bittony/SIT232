@@ -1,0 +1,15 @@
+C:\Users\tonny\source\repos\ExampleTesting\ExampleTesting\bin\Release\net5.0\ExampleTesting.exe
+C:\Users\tonny\source\repos\ExampleTesting\ExampleTesting\bin\Release\net5.0\ExampleTesting.deps.json
+C:\Users\tonny\source\repos\ExampleTesting\ExampleTesting\bin\Release\net5.0\ExampleTesting.runtimeconfig.json
+C:\Users\tonny\source\repos\ExampleTesting\ExampleTesting\bin\Release\net5.0\ExampleTesting.runtimeconfig.dev.json
+C:\Users\tonny\source\repos\ExampleTesting\ExampleTesting\bin\Release\net5.0\ExampleTesting.dll
+C:\Users\tonny\source\repos\ExampleTesting\ExampleTesting\bin\Release\net5.0\ref\ExampleTesting.dll
+C:\Users\tonny\source\repos\ExampleTesting\ExampleTesting\bin\Release\net5.0\ExampleTesting.pdb
+C:\Users\tonny\source\repos\ExampleTesting\ExampleTesting\obj\Release\net5.0\ExampleTesting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tonny\source\repos\ExampleTesting\ExampleTesting\obj\Release\net5.0\ExampleTesting.AssemblyInfoInputs.cache
+C:\Users\tonny\source\repos\ExampleTesting\ExampleTesting\obj\Release\net5.0\ExampleTesting.AssemblyInfo.cs
+C:\Users\tonny\source\repos\ExampleTesting\ExampleTesting\obj\Release\net5.0\ExampleTesting.csproj.CoreCompileInputs.cache
+C:\Users\tonny\source\repos\ExampleTesting\ExampleTesting\obj\Release\net5.0\ExampleTesting.dll
+C:\Users\tonny\source\repos\ExampleTesting\ExampleTesting\obj\Release\net5.0\ref\ExampleTesting.dll
+C:\Users\tonny\source\repos\ExampleTesting\ExampleTesting\obj\Release\net5.0\ExampleTesting.pdb
+C:\Users\tonny\source\repos\ExampleTesting\ExampleTesting\obj\Release\net5.0\ExampleTesting.genruntimeconfig.cache

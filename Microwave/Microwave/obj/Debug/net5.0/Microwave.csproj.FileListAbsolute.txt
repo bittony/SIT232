@@ -1,0 +1,16 @@
+C:\Users\tonny\source\repos\Microwave\Microwave\bin\Debug\net5.0\Microwave.exe
+C:\Users\tonny\source\repos\Microwave\Microwave\bin\Debug\net5.0\Microwave.deps.json
+C:\Users\tonny\source\repos\Microwave\Microwave\bin\Debug\net5.0\Microwave.runtimeconfig.json
+C:\Users\tonny\source\repos\Microwave\Microwave\bin\Debug\net5.0\Microwave.runtimeconfig.dev.json
+C:\Users\tonny\source\repos\Microwave\Microwave\bin\Debug\net5.0\Microwave.dll
+C:\Users\tonny\source\repos\Microwave\Microwave\bin\Debug\net5.0\ref\Microwave.dll
+C:\Users\tonny\source\repos\Microwave\Microwave\bin\Debug\net5.0\Microwave.pdb
+C:\Users\tonny\source\repos\Microwave\Microwave\obj\Debug\net5.0\Microwave.csprojAssemblyReference.cache
+C:\Users\tonny\source\repos\Microwave\Microwave\obj\Debug\net5.0\Microwave.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tonny\source\repos\Microwave\Microwave\obj\Debug\net5.0\Microwave.AssemblyInfoInputs.cache
+C:\Users\tonny\source\repos\Microwave\Microwave\obj\Debug\net5.0\Microwave.AssemblyInfo.cs
+C:\Users\tonny\source\repos\Microwave\Microwave\obj\Debug\net5.0\Microwave.csproj.CoreCompileInputs.cache
+C:\Users\tonny\source\repos\Microwave\Microwave\obj\Debug\net5.0\Microwave.dll
+C:\Users\tonny\source\repos\Microwave\Microwave\obj\Debug\net5.0\ref\Microwave.dll
+C:\Users\tonny\source\repos\Microwave\Microwave\obj\Debug\net5.0\Microwave.pdb
+C:\Users\tonny\source\repos\Microwave\Microwave\obj\Debug\net5.0\Microwave.genruntimeconfig.cache

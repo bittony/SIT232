@@ -1,0 +1,16 @@
+C:\Users\tonny\source\repos\DIvisibleFour\DIvisibleFour\bin\Debug\net5.0\DIvisibleFour.exe
+C:\Users\tonny\source\repos\DIvisibleFour\DIvisibleFour\bin\Debug\net5.0\DIvisibleFour.deps.json
+C:\Users\tonny\source\repos\DIvisibleFour\DIvisibleFour\bin\Debug\net5.0\DIvisibleFour.runtimeconfig.json
+C:\Users\tonny\source\repos\DIvisibleFour\DIvisibleFour\bin\Debug\net5.0\DIvisibleFour.runtimeconfig.dev.json
+C:\Users\tonny\source\repos\DIvisibleFour\DIvisibleFour\bin\Debug\net5.0\DIvisibleFour.dll
+C:\Users\tonny\source\repos\DIvisibleFour\DIvisibleFour\bin\Debug\net5.0\ref\DIvisibleFour.dll
+C:\Users\tonny\source\repos\DIvisibleFour\DIvisibleFour\bin\Debug\net5.0\DIvisibleFour.pdb
+C:\Users\tonny\source\repos\DIvisibleFour\DIvisibleFour\obj\Debug\net5.0\DIvisibleFour.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tonny\source\repos\DIvisibleFour\DIvisibleFour\obj\Debug\net5.0\DIvisibleFour.AssemblyInfoInputs.cache
+C:\Users\tonny\source\repos\DIvisibleFour\DIvisibleFour\obj\Debug\net5.0\DIvisibleFour.AssemblyInfo.cs
+C:\Users\tonny\source\repos\DIvisibleFour\DIvisibleFour\obj\Debug\net5.0\DIvisibleFour.csproj.CoreCompileInputs.cache
+C:\Users\tonny\source\repos\DIvisibleFour\DIvisibleFour\obj\Debug\net5.0\DIvisibleFour.dll
+C:\Users\tonny\source\repos\DIvisibleFour\DIvisibleFour\obj\Debug\net5.0\ref\DIvisibleFour.dll
+C:\Users\tonny\source\repos\DIvisibleFour\DIvisibleFour\obj\Debug\net5.0\DIvisibleFour.pdb
+C:\Users\tonny\source\repos\DIvisibleFour\DIvisibleFour\obj\Debug\net5.0\DIvisibleFour.genruntimeconfig.cache
+C:\Users\tonny\source\repos\DIvisibleFour\DIvisibleFour\obj\Debug\net5.0\DIvisibleFour.csprojAssemblyReference.cache

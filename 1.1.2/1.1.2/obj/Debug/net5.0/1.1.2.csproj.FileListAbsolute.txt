@@ -1,0 +1,15 @@
+C:\Users\tonny\source\repos\1.1.2\1.1.2\bin\Debug\net5.0\1.1.2.exe
+C:\Users\tonny\source\repos\1.1.2\1.1.2\bin\Debug\net5.0\1.1.2.deps.json
+C:\Users\tonny\source\repos\1.1.2\1.1.2\bin\Debug\net5.0\1.1.2.runtimeconfig.json
+C:\Users\tonny\source\repos\1.1.2\1.1.2\bin\Debug\net5.0\1.1.2.runtimeconfig.dev.json
+C:\Users\tonny\source\repos\1.1.2\1.1.2\bin\Debug\net5.0\1.1.2.dll
+C:\Users\tonny\source\repos\1.1.2\1.1.2\bin\Debug\net5.0\ref\1.1.2.dll
+C:\Users\tonny\source\repos\1.1.2\1.1.2\bin\Debug\net5.0\1.1.2.pdb
+C:\Users\tonny\source\repos\1.1.2\1.1.2\obj\Debug\net5.0\1.1.2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tonny\source\repos\1.1.2\1.1.2\obj\Debug\net5.0\1.1.2.AssemblyInfoInputs.cache
+C:\Users\tonny\source\repos\1.1.2\1.1.2\obj\Debug\net5.0\1.1.2.AssemblyInfo.cs
+C:\Users\tonny\source\repos\1.1.2\1.1.2\obj\Debug\net5.0\1.1.2.csproj.CoreCompileInputs.cache
+C:\Users\tonny\source\repos\1.1.2\1.1.2\obj\Debug\net5.0\1.1.2.dll
+C:\Users\tonny\source\repos\1.1.2\1.1.2\obj\Debug\net5.0\ref\1.1.2.dll
+C:\Users\tonny\source\repos\1.1.2\1.1.2\obj\Debug\net5.0\1.1.2.pdb
+C:\Users\tonny\source\repos\1.1.2\1.1.2\obj\Debug\net5.0\1.1.2.genruntimeconfig.cache

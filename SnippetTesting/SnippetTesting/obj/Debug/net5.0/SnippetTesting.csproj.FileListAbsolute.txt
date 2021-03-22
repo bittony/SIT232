@@ -1,0 +1,15 @@
+C:\Users\tonny\source\repos\SnippetTesting\SnippetTesting\bin\Debug\net5.0\SnippetTesting.exe
+C:\Users\tonny\source\repos\SnippetTesting\SnippetTesting\bin\Debug\net5.0\SnippetTesting.deps.json
+C:\Users\tonny\source\repos\SnippetTesting\SnippetTesting\bin\Debug\net5.0\SnippetTesting.runtimeconfig.json
+C:\Users\tonny\source\repos\SnippetTesting\SnippetTesting\bin\Debug\net5.0\SnippetTesting.runtimeconfig.dev.json
+C:\Users\tonny\source\repos\SnippetTesting\SnippetTesting\bin\Debug\net5.0\SnippetTesting.dll
+C:\Users\tonny\source\repos\SnippetTesting\SnippetTesting\bin\Debug\net5.0\ref\SnippetTesting.dll
+C:\Users\tonny\source\repos\SnippetTesting\SnippetTesting\bin\Debug\net5.0\SnippetTesting.pdb
+C:\Users\tonny\source\repos\SnippetTesting\SnippetTesting\obj\Debug\net5.0\SnippetTesting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tonny\source\repos\SnippetTesting\SnippetTesting\obj\Debug\net5.0\SnippetTesting.AssemblyInfoInputs.cache
+C:\Users\tonny\source\repos\SnippetTesting\SnippetTesting\obj\Debug\net5.0\SnippetTesting.AssemblyInfo.cs
+C:\Users\tonny\source\repos\SnippetTesting\SnippetTesting\obj\Debug\net5.0\SnippetTesting.csproj.CoreCompileInputs.cache
+C:\Users\tonny\source\repos\SnippetTesting\SnippetTesting\obj\Debug\net5.0\SnippetTesting.dll
+C:\Users\tonny\source\repos\SnippetTesting\SnippetTesting\obj\Debug\net5.0\ref\SnippetTesting.dll
+C:\Users\tonny\source\repos\SnippetTesting\SnippetTesting\obj\Debug\net5.0\SnippetTesting.pdb
+C:\Users\tonny\source\repos\SnippetTesting\SnippetTesting\obj\Debug\net5.0\SnippetTesting.genruntimeconfig.cache

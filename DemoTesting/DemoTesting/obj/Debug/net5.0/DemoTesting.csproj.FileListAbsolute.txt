@@ -1,0 +1,16 @@
+C:\Users\tonny\source\repos\DemoTesting\DemoTesting\obj\Debug\net5.0\DemoTesting.csprojAssemblyReference.cache
+C:\Users\tonny\source\repos\DemoTesting\DemoTesting\obj\Debug\net5.0\DemoTesting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tonny\source\repos\DemoTesting\DemoTesting\obj\Debug\net5.0\DemoTesting.AssemblyInfoInputs.cache
+C:\Users\tonny\source\repos\DemoTesting\DemoTesting\obj\Debug\net5.0\DemoTesting.AssemblyInfo.cs
+C:\Users\tonny\source\repos\DemoTesting\DemoTesting\obj\Debug\net5.0\DemoTesting.csproj.CoreCompileInputs.cache
+C:\Users\tonny\source\repos\DemoTesting\DemoTesting\bin\Debug\net5.0\DemoTesting.exe
+C:\Users\tonny\source\repos\DemoTesting\DemoTesting\bin\Debug\net5.0\DemoTesting.deps.json
+C:\Users\tonny\source\repos\DemoTesting\DemoTesting\bin\Debug\net5.0\DemoTesting.runtimeconfig.json
+C:\Users\tonny\source\repos\DemoTesting\DemoTesting\bin\Debug\net5.0\DemoTesting.runtimeconfig.dev.json
+C:\Users\tonny\source\repos\DemoTesting\DemoTesting\bin\Debug\net5.0\DemoTesting.dll
+C:\Users\tonny\source\repos\DemoTesting\DemoTesting\bin\Debug\net5.0\ref\DemoTesting.dll
+C:\Users\tonny\source\repos\DemoTesting\DemoTesting\bin\Debug\net5.0\DemoTesting.pdb
+C:\Users\tonny\source\repos\DemoTesting\DemoTesting\obj\Debug\net5.0\DemoTesting.dll
+C:\Users\tonny\source\repos\DemoTesting\DemoTesting\obj\Debug\net5.0\ref\DemoTesting.dll
+C:\Users\tonny\source\repos\DemoTesting\DemoTesting\obj\Debug\net5.0\DemoTesting.pdb
+C:\Users\tonny\source\repos\DemoTesting\DemoTesting\obj\Debug\net5.0\DemoTesting.genruntimeconfig.cache

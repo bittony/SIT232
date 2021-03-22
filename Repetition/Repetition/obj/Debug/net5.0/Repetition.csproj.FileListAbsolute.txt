@@ -1,0 +1,16 @@
+C:\Users\tonny\source\repos\Repetition\Repetition\bin\Debug\net5.0\Repetition.exe
+C:\Users\tonny\source\repos\Repetition\Repetition\bin\Debug\net5.0\Repetition.deps.json
+C:\Users\tonny\source\repos\Repetition\Repetition\bin\Debug\net5.0\Repetition.runtimeconfig.json
+C:\Users\tonny\source\repos\Repetition\Repetition\bin\Debug\net5.0\Repetition.runtimeconfig.dev.json
+C:\Users\tonny\source\repos\Repetition\Repetition\bin\Debug\net5.0\Repetition.dll
+C:\Users\tonny\source\repos\Repetition\Repetition\bin\Debug\net5.0\ref\Repetition.dll
+C:\Users\tonny\source\repos\Repetition\Repetition\bin\Debug\net5.0\Repetition.pdb
+C:\Users\tonny\source\repos\Repetition\Repetition\obj\Debug\net5.0\Repetition.csprojAssemblyReference.cache
+C:\Users\tonny\source\repos\Repetition\Repetition\obj\Debug\net5.0\Repetition.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tonny\source\repos\Repetition\Repetition\obj\Debug\net5.0\Repetition.AssemblyInfoInputs.cache
+C:\Users\tonny\source\repos\Repetition\Repetition\obj\Debug\net5.0\Repetition.AssemblyInfo.cs
+C:\Users\tonny\source\repos\Repetition\Repetition\obj\Debug\net5.0\Repetition.csproj.CoreCompileInputs.cache
+C:\Users\tonny\source\repos\Repetition\Repetition\obj\Debug\net5.0\Repetition.dll
+C:\Users\tonny\source\repos\Repetition\Repetition\obj\Debug\net5.0\ref\Repetition.dll
+C:\Users\tonny\source\repos\Repetition\Repetition\obj\Debug\net5.0\Repetition.pdb
+C:\Users\tonny\source\repos\Repetition\Repetition\obj\Debug\net5.0\Repetition.genruntimeconfig.cache
