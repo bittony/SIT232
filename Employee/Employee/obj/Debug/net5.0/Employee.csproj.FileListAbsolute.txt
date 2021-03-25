@@ -1,0 +1,16 @@
+C:\Users\tonny\source\repos\bittony\SIT232\Employee\Employee\bin\Debug\net5.0\Employee.exe
+C:\Users\tonny\source\repos\bittony\SIT232\Employee\Employee\bin\Debug\net5.0\Employee.deps.json
+C:\Users\tonny\source\repos\bittony\SIT232\Employee\Employee\bin\Debug\net5.0\Employee.runtimeconfig.json
+C:\Users\tonny\source\repos\bittony\SIT232\Employee\Employee\bin\Debug\net5.0\Employee.runtimeconfig.dev.json
+C:\Users\tonny\source\repos\bittony\SIT232\Employee\Employee\bin\Debug\net5.0\Employee.dll
+C:\Users\tonny\source\repos\bittony\SIT232\Employee\Employee\bin\Debug\net5.0\ref\Employee.dll
+C:\Users\tonny\source\repos\bittony\SIT232\Employee\Employee\bin\Debug\net5.0\Employee.pdb
+C:\Users\tonny\source\repos\bittony\SIT232\Employee\Employee\obj\Debug\net5.0\Employee.csprojAssemblyReference.cache
+C:\Users\tonny\source\repos\bittony\SIT232\Employee\Employee\obj\Debug\net5.0\Employee.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tonny\source\repos\bittony\SIT232\Employee\Employee\obj\Debug\net5.0\Employee.AssemblyInfoInputs.cache
+C:\Users\tonny\source\repos\bittony\SIT232\Employee\Employee\obj\Debug\net5.0\Employee.AssemblyInfo.cs
+C:\Users\tonny\source\repos\bittony\SIT232\Employee\Employee\obj\Debug\net5.0\Employee.csproj.CoreCompileInputs.cache
+C:\Users\tonny\source\repos\bittony\SIT232\Employee\Employee\obj\Debug\net5.0\Employee.dll
+C:\Users\tonny\source\repos\bittony\SIT232\Employee\Employee\obj\Debug\net5.0\ref\Employee.dll
+C:\Users\tonny\source\repos\bittony\SIT232\Employee\Employee\obj\Debug\net5.0\Employee.pdb
+C:\Users\tonny\source\repos\bittony\SIT232\Employee\Employee\obj\Debug\net5.0\Employee.genruntimeconfig.cache

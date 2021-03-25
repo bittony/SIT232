@@ -1,10 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "/L/iFMsL0CLDL+oWCNoPeDzamQ0bqrEyT9o9mKWfn92o5ZNHmlNLjhkBN9Jw9VwD/emTxRxPKQ+LiGovbfoKSA==",
+  "dgSpecHash": "TWEs0wrXP9XrR1iIxbdYGdRUiANuZrUeZow+EgjRCHFebeYXYdPXvmo2/EmdnKEOqokiZHmyzBLehU1vvwLe7A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\tonny\\Documents\\GitHub\\SIT232\\MobileProgram\\MobileProgram\\MobileProgram.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\tonny\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512"
-  ],
+  "projectFilePath": "C:\\Users\\tonny\\source\\repos\\bittony\\SIT232\\MobileProgram\\MobileProgram\\MobileProgram.csproj",
+  "expectedPackageFiles": [],
   "logs": []
 }
