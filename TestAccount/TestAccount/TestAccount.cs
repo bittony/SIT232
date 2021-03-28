@@ -12,8 +12,7 @@ namespace TestAccount
             newAccount.Print();
             newAccount.Withdraw(5);
             newAccount.Print();
-
-            newAccount.Name("Jack");
+            Console.WriteLine(newAccount.Name);
         }
     }
 }

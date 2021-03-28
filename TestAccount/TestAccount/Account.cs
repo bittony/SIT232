@@ -26,10 +26,6 @@ namespace TestAccount
             Console.WriteLine("Name: " + this._name);
             Console.WriteLine("Balance: " + this._balance.ToString("C"));
         }
-        public string Name(string name)
-        {
-            _name = name;
-            return _name.ToString();
-        }
+        public string Name => "Name of Account: " + $"{_name}";
     }
 }
