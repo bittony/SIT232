@@ -1,0 +1,16 @@
+C:\Users\tonny\source\repos\bittony\SIT232\TestAccount\TestAccount\bin\Debug\net5.0\TestAccount.exe
+C:\Users\tonny\source\repos\bittony\SIT232\TestAccount\TestAccount\bin\Debug\net5.0\TestAccount.deps.json
+C:\Users\tonny\source\repos\bittony\SIT232\TestAccount\TestAccount\bin\Debug\net5.0\TestAccount.runtimeconfig.json
+C:\Users\tonny\source\repos\bittony\SIT232\TestAccount\TestAccount\bin\Debug\net5.0\TestAccount.runtimeconfig.dev.json
+C:\Users\tonny\source\repos\bittony\SIT232\TestAccount\TestAccount\bin\Debug\net5.0\TestAccount.dll
+C:\Users\tonny\source\repos\bittony\SIT232\TestAccount\TestAccount\bin\Debug\net5.0\ref\TestAccount.dll
+C:\Users\tonny\source\repos\bittony\SIT232\TestAccount\TestAccount\bin\Debug\net5.0\TestAccount.pdb
+C:\Users\tonny\source\repos\bittony\SIT232\TestAccount\TestAccount\obj\Debug\net5.0\TestAccount.csprojAssemblyReference.cache
+C:\Users\tonny\source\repos\bittony\SIT232\TestAccount\TestAccount\obj\Debug\net5.0\TestAccount.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tonny\source\repos\bittony\SIT232\TestAccount\TestAccount\obj\Debug\net5.0\TestAccount.AssemblyInfoInputs.cache
+C:\Users\tonny\source\repos\bittony\SIT232\TestAccount\TestAccount\obj\Debug\net5.0\TestAccount.AssemblyInfo.cs
+C:\Users\tonny\source\repos\bittony\SIT232\TestAccount\TestAccount\obj\Debug\net5.0\TestAccount.csproj.CoreCompileInputs.cache
+C:\Users\tonny\source\repos\bittony\SIT232\TestAccount\TestAccount\obj\Debug\net5.0\TestAccount.dll
+C:\Users\tonny\source\repos\bittony\SIT232\TestAccount\TestAccount\obj\Debug\net5.0\ref\TestAccount.dll
+C:\Users\tonny\source\repos\bittony\SIT232\TestAccount\TestAccount\obj\Debug\net5.0\TestAccount.pdb
+C:\Users\tonny\source\repos\bittony\SIT232\TestAccount\TestAccount\obj\Debug\net5.0\TestAccount.genruntimeconfig.cache

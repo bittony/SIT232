@@ -1,6 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\Car",
+    "\\Car\\Car"
   ],
+  "SelectedNode": "\\Car\\Car\\Car.cs",
   "PreviewInSolutionExplorer": false
 }

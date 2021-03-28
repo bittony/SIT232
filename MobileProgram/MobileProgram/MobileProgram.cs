@@ -13,17 +13,15 @@ namespace MobileProgram
                 + jimMobile.getBalance());
 
             Console.ReadLine();
-
             jimMobile.setAccType("PAYG");
             jimMobile.setDevice("iPhone 6S");
             jimMobile.setNumber("07713334466");
             jimMobile.setBalance(15.50);
-
+            
             Console.WriteLine();
             Console.WriteLine("Account Type: " + jimMobile.getAccType() + "\nMobile Number: "
                 + jimMobile.getNumber() + "\nDevice: " + jimMobile.getDevice() + "\nBalance: "
                 + jimMobile.getBalance());
-
             Console.ReadLine();
 
             Console.WriteLine();

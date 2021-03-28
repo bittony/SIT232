@@ -1,0 +1,16 @@
+C:\Users\tonny\source\repos\bittony\SIT232\Car\Car\bin\Debug\net5.0\Car.exe
+C:\Users\tonny\source\repos\bittony\SIT232\Car\Car\bin\Debug\net5.0\Car.deps.json
+C:\Users\tonny\source\repos\bittony\SIT232\Car\Car\bin\Debug\net5.0\Car.runtimeconfig.json
+C:\Users\tonny\source\repos\bittony\SIT232\Car\Car\bin\Debug\net5.0\Car.runtimeconfig.dev.json
+C:\Users\tonny\source\repos\bittony\SIT232\Car\Car\bin\Debug\net5.0\Car.dll
+C:\Users\tonny\source\repos\bittony\SIT232\Car\Car\bin\Debug\net5.0\ref\Car.dll
+C:\Users\tonny\source\repos\bittony\SIT232\Car\Car\bin\Debug\net5.0\Car.pdb
+C:\Users\tonny\source\repos\bittony\SIT232\Car\Car\obj\Debug\net5.0\Car.csprojAssemblyReference.cache
+C:\Users\tonny\source\repos\bittony\SIT232\Car\Car\obj\Debug\net5.0\Car.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tonny\source\repos\bittony\SIT232\Car\Car\obj\Debug\net5.0\Car.AssemblyInfoInputs.cache
+C:\Users\tonny\source\repos\bittony\SIT232\Car\Car\obj\Debug\net5.0\Car.AssemblyInfo.cs
+C:\Users\tonny\source\repos\bittony\SIT232\Car\Car\obj\Debug\net5.0\Car.csproj.CoreCompileInputs.cache
+C:\Users\tonny\source\repos\bittony\SIT232\Car\Car\obj\Debug\net5.0\Car.dll
+C:\Users\tonny\source\repos\bittony\SIT232\Car\Car\obj\Debug\net5.0\ref\Car.dll
+C:\Users\tonny\source\repos\bittony\SIT232\Car\Car\obj\Debug\net5.0\Car.pdb
+C:\Users\tonny\source\repos\bittony\SIT232\Car\Car\obj\Debug\net5.0\Car.genruntimeconfig.cache

@@ -1,10 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "d9dw3OUUpI/1Y3kfm3F3XVfLPhQqhaCSgAf9G56tX9cNyNs/PrGIItdKIMD31UMC7sxv3bQ/g3SagI3e3PLQiw==",
+  "dgSpecHash": "Nf9FN1YTpQ6dOnNZfQvznhF/LoQZVUPNBD99o3DWMX26b5r/51hzFqU5Pn6a/Bn+b0IwKuo12oqry3A2lMXn+w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\tonny\\Documents\\GitHub\\SIT232\\DoCasting\\DoCasting\\DoCasting.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\tonny\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512"
-  ],
+  "projectFilePath": "C:\\Users\\tonny\\source\\repos\\bittony\\SIT232\\DoCasting\\DoCasting\\DoCasting.csproj",
+  "expectedPackageFiles": [],
   "logs": []
 }
