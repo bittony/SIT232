@@ -4,38 +4,44 @@ namespace BankSystem
 {
     enum MenuOption
     {
-        Withdraw = 1,
+        Withdraw,
         Deposit,
         Print,
         Quit
     }
     class BankSystem
     {
-        
+
         static void Main(string[] args)
         {
             int userChoice;
+            bool forever = true;
             Account account1 = new Account("James", 20);
-            userChoice = (int)ReadUserOption();
-            
-            switch (userChoice)
+            do
             {
-                case 1:
-                    DoWithdraw(account1);
-                    break;
-                case 2:
-                    DoDeposit(account1);
-                    break;
-                case 3:
-                    DoPrint(account1);
-                    break;
-                case 4:
-                    Console.WriteLine("Quitting");
-                    break;
-                default:
-                    Console.WriteLine("Please enter a valid option");
-                    break;
-            }
+                userChoice = (int)ReadUserOption();
+
+                switch (userChoice)
+                {
+                    case 1:
+                        DoWithdraw(account1);
+                        break;
+                    case 2:
+                        DoDeposit(account1);
+                        break;
+                    case 3:
+                        DoPrint(account1);
+                        break;
+                    case 4:
+                        Console.WriteLine("Quitting");
+                        forever = false;
+                        break;
+                    default:
+                        Console.WriteLine("Please enter a valid option");
+                        break;
+                }
+            } while (forever);
+
             void DoWithdraw(Account account)
             {
                 decimal amount;
@@ -55,21 +61,34 @@ namespace BankSystem
                 account.Print();
             }
         }
+
         public static MenuOption ReadUserOption()
+        {
+            Enum Withdraw = MenuOption.Withdraw;
+            Enum Deposit = MenuOption.Deposit;
+            Enum Print = MenuOption.Print;
+            Enum Quit = MenuOption.Quit;
+            MenuOption choice;
+            
+            Console.WriteLine("Enter 1 to " + Withdraw.ToString());
+            Console.WriteLine("Enter 2 to " + Deposit.ToString());
+            Console.WriteLine("Enter 3 to " + Print.ToString());
+            Console.WriteLine("Enter 4 to " + Quit.ToString());
+            choice = (MenuOption)Convert.ToInt32(Console.ReadLine());
+            return choice;
+        }
+
+        /*public static MenuOption ReadUserOption()
         {
             MenuOption choice;
 
-            do
-            {
-                Console.WriteLine("Please choose from the following options: ");
-                Console.WriteLine("Enter 1 to withdraw");
-                Console.WriteLine("Enter 2 to deposit");
-                Console.WriteLine("Enter 3 to print account info");
-                Console.WriteLine("Enter 4 to quit");
-                choice = (MenuOption)Convert.ToInt32(Console.ReadLine());
-                return choice;
-            } while (choice > 0);
-        }
-        
+            Console.WriteLine("Please choose from the following options: ");
+            Console.WriteLine("Enter 1 to withdraw");
+            Console.WriteLine("Enter 2 to deposit");
+            Console.WriteLine("Enter 3 to print account info");
+            Console.WriteLine("Enter 4 to quit");
+            choice = (MenuOption)Convert.ToInt32(Console.ReadLine());
+            return choice;
+        }*/
     } 
 }

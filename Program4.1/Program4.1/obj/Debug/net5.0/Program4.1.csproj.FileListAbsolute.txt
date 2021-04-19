@@ -1,0 +1,16 @@
+C:\Users\tonny\source\repos\bittony\SIT232\Program4.1\Program4.1\bin\Debug\net5.0\Program4.1.exe
+C:\Users\tonny\source\repos\bittony\SIT232\Program4.1\Program4.1\bin\Debug\net5.0\Program4.1.deps.json
+C:\Users\tonny\source\repos\bittony\SIT232\Program4.1\Program4.1\bin\Debug\net5.0\Program4.1.runtimeconfig.json
+C:\Users\tonny\source\repos\bittony\SIT232\Program4.1\Program4.1\bin\Debug\net5.0\Program4.1.runtimeconfig.dev.json
+C:\Users\tonny\source\repos\bittony\SIT232\Program4.1\Program4.1\bin\Debug\net5.0\Program4.1.dll
+C:\Users\tonny\source\repos\bittony\SIT232\Program4.1\Program4.1\bin\Debug\net5.0\ref\Program4.1.dll
+C:\Users\tonny\source\repos\bittony\SIT232\Program4.1\Program4.1\bin\Debug\net5.0\Program4.1.pdb
+C:\Users\tonny\source\repos\bittony\SIT232\Program4.1\Program4.1\obj\Debug\net5.0\Program4.1.csprojAssemblyReference.cache
+C:\Users\tonny\source\repos\bittony\SIT232\Program4.1\Program4.1\obj\Debug\net5.0\Program4.1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tonny\source\repos\bittony\SIT232\Program4.1\Program4.1\obj\Debug\net5.0\Program4.1.AssemblyInfoInputs.cache
+C:\Users\tonny\source\repos\bittony\SIT232\Program4.1\Program4.1\obj\Debug\net5.0\Program4.1.AssemblyInfo.cs
+C:\Users\tonny\source\repos\bittony\SIT232\Program4.1\Program4.1\obj\Debug\net5.0\Program4.1.csproj.CoreCompileInputs.cache
+C:\Users\tonny\source\repos\bittony\SIT232\Program4.1\Program4.1\obj\Debug\net5.0\Program4.1.dll
+C:\Users\tonny\source\repos\bittony\SIT232\Program4.1\Program4.1\obj\Debug\net5.0\ref\Program4.1.dll
+C:\Users\tonny\source\repos\bittony\SIT232\Program4.1\Program4.1\obj\Debug\net5.0\Program4.1.pdb
+C:\Users\tonny\source\repos\bittony\SIT232\Program4.1\Program4.1\obj\Debug\net5.0\Program4.1.genruntimeconfig.cache

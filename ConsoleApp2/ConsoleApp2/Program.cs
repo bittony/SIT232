@@ -145,38 +145,47 @@ namespace ConsoleApp2
                     Console.WriteLine("The number of odd elements are: " + oddElements);
                     Console.WriteLine("The number of even elements are: " + evenElements);
             */
+            FuncTwo();
+        }
 
-            List<double> FuncTwo = new List<double>();
-            double listValue = new double();
-            FuncTwo.Add(1);
-            FuncTwo.Add(2);
-            FuncTwo.Add(3);
-            FuncTwo.Add(4);
-            FuncTwo.Add(5);
-            for (int i = 0; i < listValue; i++)
+        public static void FuncTwo()
+        {
+            List<double> FuncTwoList = new List<double>();
+            double total = 0;
+            double average;
+            FuncTwoList.Add(1);
+            FuncTwoList.Add(2);
+            FuncTwoList.Add(3);
+            FuncTwoList.Add(4);
+            FuncTwoList.Add(5);
+
+            for (int i = 0; i < FuncTwoList.Count; i++)
+            {
+                total += FuncTwoList[i];
+            }
+            
+            average = total / FuncTwoList.Count;
+            
+            for (int i = 0; i < FuncTwoList.Count; i++)
+            {
+                FuncTwoList[i] -= average;
+            }
+
+            for (int i = 0; i < FuncTwoList.Count; i++)
+            {
+                Console.WriteLine(FuncTwoList[i]);
+            }
+        }
+
+        public static void FuncThree()
+        {
+            int[,] myArray = new int[2, 4] { { 6, 3, 3, 4 }, { 9, 2, 12, 1 } };
+            int[] newArray = new int[x];
+
+            for (int i = 0; i < myArray.GetLength(0); i++)
             {
 
             }
-
-
-
-
-
-            /*Console.WriteLine("You now need to add " + randomNumber + " students to your class list");
-            for (int i = 0; i < randomNumber; i++)
-            {
-                Console.Write("Please enter the name of student " + (i + 1) + ": ");
-                myStudentList.Add(Console.ReadLine());
-                Console.WriteLine();
-            }
-
-            Console.WriteLine("Students in the list are: ");
-
-            for (int i = 0; i < randomNumber; i++)
-            {
-                Console.WriteLine(myStudentList[i]);
-            }
-            */
         }
     }
 }
