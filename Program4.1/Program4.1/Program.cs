@@ -1,5 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
 
 namespace Program4._1
 {
@@ -7,13 +6,6 @@ namespace Program4._1
     {
         static void Main(string[] args)
         {
-            int value = Int32.Parse(args[0]);
-            List<String> names;
-            if (value > 0)
-                names = new List<String>();
-
-            names.Add("Major Major Major");
-
             try
             {
                 Account account = new Account("Sergey", "P", 100);
@@ -24,6 +16,87 @@ namespace Program4._1
                 Console.WriteLine("The following error detected: " + exception.GetType().ToString() + " with message \"" + exception.Message + "\"");
             }
 
+            try
+            {
+                Account account = new Account(null, "P", 500);
+                account.Deposit(1000);
+            }
+            catch (NullReferenceException exception)
+            {
+                Console.WriteLine("The following error detected: " + exception.GetType().ToString() + " with message \"" + exception.Message + "\"");
+            }
+
+            try
+            {
+
+            }
+            catch (IndexOutOfRangeException exception)
+            {
+                Console.WriteLine("The following error detected: " + exception.GetType().ToString() + " with message \"" + exception.Message + "\"");
+            }
+
+            try
+            {
+
+            }
+            catch (StackOverflowException exception)
+            {
+                Console.WriteLine("The following error detected: " + exception.GetType().ToString() + " with message \"" + exception.Message + "\"");
+            }
+
+            try
+            {
+
+            }
+            catch (OutOfMemoryException exception)
+            {
+                Console.WriteLine("The following error detected: " + exception.GetType().ToString() + " with message \"" + exception.Message + "\"");
+            }
+
+            try
+            {
+
+            }
+            catch (InvalidCastException exception)
+            {
+                Console.WriteLine("The following error detected: " + exception.GetType().ToString() + " with message \"" + exception.Message + "\"");
+            }
+
+            try
+            {
+
+            }
+            catch (DivideByZeroException exception)
+            {
+                Console.WriteLine("The following error detected: " + exception.GetType().ToString() + " with message \"" + exception.Message + "\"");
+            }
+
+            try
+            {
+
+            }
+            catch (ArgumentException exception)
+            {
+                Console.WriteLine("The following error detected: " + exception.GetType().ToString() + " with message \"" + exception.Message + "\"");
+            }
+
+            try
+            {
+
+            }
+            catch (ArgumentOutOfRangeException exception)
+            {
+                Console.WriteLine("The following error detected: " + exception.GetType().ToString() + " with message \"" + exception.Message + "\"");
+            }
+
+            try
+            {
+
+            }
+            catch (SystemException exception)
+            {
+                Console.WriteLine("The following error detected: " + exception.GetType().ToString() + " with message \"" + exception.Message + "\"");
+            }
             Console.ReadKey();
         }
     }
@@ -48,5 +121,14 @@ class Account
             throw new InvalidOperationException("Insufficient fund");
         }
         Balance = Balance - amount;
+    }
+
+    public void Deposit(int amount)
+    {
+        if (amount > Balance)
+        {
+            throw new NullReferenceException("Insufficient null");
+        }
+        Balance = Balance + amount;
     }
 }

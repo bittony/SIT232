@@ -77,18 +77,5 @@ namespace BankSystem
             choice = (MenuOption)Convert.ToInt32(Console.ReadLine());
             return choice;
         }
-
-        /*public static MenuOption ReadUserOption()
-        {
-            MenuOption choice;
-
-            Console.WriteLine("Please choose from the following options: ");
-            Console.WriteLine("Enter 1 to withdraw");
-            Console.WriteLine("Enter 2 to deposit");
-            Console.WriteLine("Enter 3 to print account info");
-            Console.WriteLine("Enter 4 to quit");
-            choice = (MenuOption)Convert.ToInt32(Console.ReadLine());
-            return choice;
-        }*/
     } 
 }
